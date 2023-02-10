@@ -1,1 +1,3 @@
-
+Server:
+  Servlet:
+     Context path: /cliente-pet/api     
